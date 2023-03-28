@@ -15,4 +15,8 @@
 <br>
 
 <h4>Vizualização em Desktop:</h4>
+<<<<<<< HEAD
 <img src="./assents/easy-mobile-desktop.png" alt="Desktop"/>
+=======
+<img src="./assents/easy-mobile-desktop.png" alt="Desktop"/>
+>>>>>>> 5cd5349c8f1a5599ce7e85680c3e877ebfd80a26

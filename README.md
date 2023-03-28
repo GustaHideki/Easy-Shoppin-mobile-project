@@ -11,8 +11,8 @@
     <br>
 
 <h3>vizualização em celular:</h3>
-    <img src="./Easy-mobile-phone.png" alt="phone"/>
+    <img src="./assents/Easy-mobile-phone.png" alt="phone"/>
 <br>
 
 <h4>Vizualização em Desktop:</h4>
-<img src="./easy-mobile-desktop.png" alt="Desktop"/>
+<img src="./assents/easy-mobile-desktop.png" alt="Desktop"/>
